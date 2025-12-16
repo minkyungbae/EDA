@@ -1,0 +1,10 @@
+python 버전 확인 하기 : python --version
+
+EDA를 위한 필수 라이브러리
+pip install numpy pandas matplotlib seaborn jupyter
+
+numpy : 수치 계산, 배열
+pandas : 데이터프레임, EDA 핵심
+matplotlib : 기본 시각화
+seaborn : 예븐 통계 시각화
+jupyter : 노트북 실행 환경
